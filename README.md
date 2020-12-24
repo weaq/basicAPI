@@ -1,2 +1,2 @@
 # basicAPI
-basic from make API with python and flask
+basic API with python and flask
